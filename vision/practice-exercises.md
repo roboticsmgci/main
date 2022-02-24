@@ -1,4 +1,4 @@
-### Some exercises have a result file as an example. They are labeled as `{section}-{question}res.png`
+### Some exercises have a result file as an example. They are labeled as `{section}-{question}res.png`.
 
 # Merging
 
