@@ -15,7 +15,7 @@
 1. Work with simulation
     1. Start with [this](https://github.com/roboticsmgci/main/blob/main/guides/wpilib/simulation.md)
     2. Experiment with different motor values
-    3. Get Field2D working by reading the guides and documentation (I've started [here](https://github.com/roboticsmgci/main/blob/main/guides/temp/simulation.cpp) if you want to build on, make sure to turn the file into a `.cpp` once you've downloaded it)
+    3. Get Field2D working by reading the guides and documentation
 2. Run the motor directly through your laptop with the [SparkMax API](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#c-api)
 
 **Notes**
@@ -25,7 +25,7 @@
 
 ## Vision
 
-1. Work on [OpenCV practice exercises]()
+1. Work on [OpenCV practice exercises](https://github.com/roboticsmgci/main/blob/main/vision/practice-exercises.md)
 2. If you have a Raspberry Pi, take a camera and start working through [this tutorial](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html)
 3. If you don't, take a camera (if there are remaining), [install Python and the OpenCv library](https://github.com/roboticsmgci/main/blob/main/guides/python.md), and experiment with object detection, edge detection, and other features. 
 4. Try to attach a camera to the roborio and display the feed on the driver station software — you will need to supply the camera with power, so work with building for this.
