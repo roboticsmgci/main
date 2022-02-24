@@ -38,11 +38,8 @@
 
 # FAQ
 
-## How did you format this?
-Markdown. Here's a guide: https://www.markdownguide.org/cheat-sheet/
-
-## Should I make pull requests to edit?
-Just edit a file directly, through GitHub's built-in editor or whatever floats your boat. There's no need to write commit messages either, use the default.
-
 ## Why does it say the language is Shell?
 The green icon of Shell pops out in the sea of dark mode and makes this repo easier to find.
+
+## I can't find some information?
+More private information is found in the [main-private repository](https://github.com/roboticsmgci/main-private).
