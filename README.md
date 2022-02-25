@@ -1,4 +1,6 @@
-# Table of Contents
+# Quick Links
+
+[Main-Private Repository](https://github.com/roboticsmgci/main-private)
 
 1. [Tasks](https://github.com/roboticsmgci/main#tasks)
     1. [Robot](https://github.com/roboticsmgci/main#robot)
