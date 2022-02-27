@@ -39,7 +39,7 @@
 ---
 
 # FAQ
-
+   
 ## Why does it say the language is Shell?
 The green icon of Shell pops out in the sea of dark mode and makes this repo easier to find.
 

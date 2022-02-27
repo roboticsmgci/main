@@ -1,6 +1,6 @@
 ### Some exercises have a result file as an example. They are labeled as `{section}-{question}res.png`.
 
-# Merging
+# 1. Merging
 
 1. Duplicate `merging-sample.png` horizontally (see `merging-1res.png` for result)
 2. Duplicate `merging-sample.png` vertically (see `merging-2res.png` for result)
@@ -8,7 +8,7 @@
 4. Duplicate `merging-sample.png` horizontally, but the right side is rotated 90 clockwise
 5. Shrink `merging-sample.png` to 100 x 100, add it centred to another `merging-sample.png`
 
-# Masking
+# 2. Masking
 
 1. Turn all white into transparent in `masking-1.png`
 2. Remove the red background in `masking-2.png`
