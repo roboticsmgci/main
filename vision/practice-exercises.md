@@ -11,6 +11,7 @@
 # 2. Masking
 
 1. Turn all white into transparent in `masking-1.png`
+   - Instead of transparent, try 
 2. Remove the red background in `masking-2.png`
 3. Combine `masking-3a.png` and `masking-3b.png`
    - They must combine to make a 750x750 image
