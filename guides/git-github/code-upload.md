@@ -8,7 +8,7 @@ Uploading is more formally called *pushing*.
     - Make sure you have an informative message
 4. Run `git push`
 
-This part is a simplified tutorial. There are many more commands and components you should know. Please research and experiment the following:
+This part is a simplified tutorial. There are many more commands and components you should know. Please research, experiment, and make sure you completely understand the following:
  - `.gitignore` file
  - Branching and forking
  - Pull requests and GitHub issues
