@@ -58,10 +58,10 @@ Claw is an example subsystem that controls the claw. Claw has custom functions h
 
 OpenClaw is a custom command that calls on the claw subsystem. Commands have several functions that can be overrided.
 
-| Function     | Description                      |
-|--------------|----------------------------------|
-| initialize() | Similar to the init schedule     |
-| execute()    | Similar to the periodic schedule |
-| end()        | When the command isFinished()    |
-| isFinished() | The condition for the end        |
+| Function       | Description                      |
+|----------------|----------------------------------|
+| `initialize()` | Similar to the init schedule     |
+| `execute()`    | Similar to the periodic schedule |
+| `end()`        | When the command isFinished()    |
+| `isFinished()` | The condition for the end        |
 
